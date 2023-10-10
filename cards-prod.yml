@@ -2,7 +2,7 @@
 build:
   version: "1.5"
 cards:
-  message: "Welcome to Production Easybank Cards related Rest API"
+  message: "Welcome to Production Easybank Cards related Rest API 2023"
   contactDetails:
     name: "Gagan Deep Mullamuri"
     email: "gagan@vy.com"
