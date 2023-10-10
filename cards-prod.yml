@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to Production Easybank Cards related Rest API"
   contactDetails:
-    name: "Gagan"
+    name: "Gagan Mullamuri"
     email: "gagan@vy.com"
   onCallSupport:
     -9398672258
