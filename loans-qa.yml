@@ -1,0 +1,10 @@
+build:
+  version: "1.2"
+loans:
+  message: "Welcome to QA of Loans REST API"
+  contactDetails:
+    name: "Navya M"
+    email: "navya@vy.com"
+  onCallSupport:
+    -834734343
+    -894793434

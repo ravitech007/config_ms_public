@@ -1,0 +1,11 @@
+
+build:
+  version: "1.0"
+loans:
+  message: "Welcome to Production of Loans REST API"
+  contactDetails:
+    name: "Navya S"
+    email: "navya@vy.com"
+  onCallSupport:
+    -420429092
+    -747299299

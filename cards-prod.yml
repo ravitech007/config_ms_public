@@ -1,0 +1,10 @@
+
+build:
+  version: "1.5"
+cards:
+  message: "Welcome to Production Easybank Cards related Rest API"
+  contactDetails:
+    name: "ravindra"
+    email: "ravindra@vy.com"
+  onCallSupport:
+    -9398672258

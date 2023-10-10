@@ -1,0 +1,10 @@
+build:
+  version: "1.10"
+accounts:
+  message: "Welcome to Easybank accounts related Rest API"
+  contactDetails:
+    name: "ravindra"
+    email: "ravindra@vy.com"
+  onCallSupport:
+    -9398672258
+    -8897120715

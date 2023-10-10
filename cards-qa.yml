@@ -1,0 +1,11 @@
+
+build:
+  version: "1.3"
+cards:
+  message: "Welcome to QA Easybank Cards related Rest API"
+  contactDetails:
+    name: "ravindra"
+    email: "ravindra@vy.com"
+  onCallSupport:
+    -9398672258
+    -8897120715

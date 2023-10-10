@@ -1,0 +1,10 @@
+build:
+  version: "1.3"
+loans:
+  message: "Welcome to the Loans REST API"
+  contactDetails:
+    name: "navya"
+    email: "navya@vy.com"
+  onCallSupport:
+    -8323382893
+    -9243847247
