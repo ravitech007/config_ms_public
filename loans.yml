@@ -3,7 +3,7 @@ build:
 loans:
   message: "Welcome to the Loans REST API"
   contactDetails:
-    name: "navya"
+    name: "navya s"
     email: "navya@vy.com"
   onCallSupport:
     -8323382893
