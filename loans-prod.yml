@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome to Production of Loans REST API"
   contactDetails:
-    name: "Navya Mullamuri"
+    name: "Navya Singamaneni"
     email: "navya@vy.com"
   onCallSupport:
     -420429092
