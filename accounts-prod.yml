@@ -3,8 +3,8 @@ build:
 accounts:
   message: "Welcome to  Production Easybank accounts related Rest API"
   contactDetails:
-    name: "Ravindra Mullamuri"
+    name: "Ravindra Babu Mullamuri"
     email: "{cipher}7bd0f100759d90475e471507e053682b7018cda97f8d03100a826565f392852fefc42b519e2e1852fa7653abe5ca3b59"
   onCallSupport:
-    -9398672258
+    -9398672253
     -8897120715
